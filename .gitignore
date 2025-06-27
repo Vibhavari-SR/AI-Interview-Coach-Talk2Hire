@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter generated
 flutter_frontend/.dart_tool/
 flutter_frontend/build/
@@ -37,3 +38,15 @@ backend/**/*.pyc
 **/.DS_Store
 **/.idea/
 **/.vscode/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+>>>>>>> fc7310a (Add retrieval script and environment setup)
